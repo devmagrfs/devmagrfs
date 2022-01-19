@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=devmagrfs&fontSize=70)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E)](#)
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <!--
 **devmagrfs/devmagrfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
