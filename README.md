@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=E34F26&height=150&section=header&text=devmagrfs&fontSize=50&fontColor=8B97FF)
+<div aling="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9B3D93&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+devmagrfs.)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
@@ -21,5 +25,3 @@
 </div>
 
 <br>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=E34F26&height=150&section=footer)
