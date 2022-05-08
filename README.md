@@ -9,7 +9,7 @@
 
 ## 💡 Github Stats 💡
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: row; width: auto;">
  <img align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight" />
  <img align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight" />
 </div>
