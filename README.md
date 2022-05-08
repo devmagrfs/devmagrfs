@@ -6,12 +6,10 @@
 
 <br>
 
-
-## 💡 Github Stats 💡
-
-<div style="display: flex; flex-direction: row; width: 100%; align=center;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight&hide_rank=true" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight" />
+<div align="center" style="display: flex; flex-direction: row; width: 100%;">
+  <h2> 💡 Github Stats 💡 </h2>
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight&hide_rank=true" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight" />
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devmagrfs&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
