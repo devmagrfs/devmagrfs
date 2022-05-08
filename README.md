@@ -10,8 +10,7 @@
 
 ## 💡 Github Stats 💡
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=default&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devmagrfs&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
