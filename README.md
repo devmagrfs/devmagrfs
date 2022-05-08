@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center" style="text-align:center">
+<div align="center" style="text-align:center; display:flex">
 
 ## 💡 Github Stats 💡
 
