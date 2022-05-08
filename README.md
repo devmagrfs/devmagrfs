@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9B3D93&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+devmagrfs.)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 
 ## 💡 Github Stats 💡
 
-<div style="display: flex; flex-direction: row; width: 100%;">
+<div style="display: flex; flex-direction: row; width: 100%; align=center;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight&hide_rank=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight" />
 </div>
