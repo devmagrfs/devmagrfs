@@ -6,7 +6,9 @@
 
 <br>
 
-## Github Stats
+<div align="center" style="text-align:center">
+
+## 💡 Github Stats 💡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,10 +16,16 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devmagrfs&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+  
 <br>
 
-## My recent posting
+<div align="center" style="text-align:center">
 
+## 💡 My recent posting 💡
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=devmagrfs)](https://velog.io/@devmag) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devmag&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+  
+</div>
