@@ -19,16 +19,3 @@
 <br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devmagrfs&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
-<br>
-
-<div align="center" style="text-align:center">
-
-## 💡 My recent posting 💡
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=devmagrfs)](https://velog.io/@devmag) 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devmag&color=dark)](https://github.com/eungyeole/velog-readme-stats)
-  
-</div>
