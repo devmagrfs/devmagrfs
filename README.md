@@ -6,13 +6,13 @@
 
 <br>
 
-<div align="center" style="display:flex; width:100%;">
+<div align="center">
   <h2> 💡 Github Stats 💡 </h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight&hide_rank=true&hide=stars" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmagrfs&layout=compact&show_icons=true&theme=material-palenight&hide_rank=true&hide=stars" />
 </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagrfs&layout=compact&theme=material-palenight" />
 </a>
 </div>
 
