@@ -1,7 +1,9 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9B3D93&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+devmagrfs.)](https://git.io/typing-svg)
-
+  <a href="https://western-hub-b8a.notion.site/b0569c590b1940a99d64912a00d6a94a" alt="notion resume">
+    <img src="https://img.shields.io/badge/Notion Resume-white?style=for-the-badge&logo=Notion&logoColor=black">
+  </a>
+  <img src="https://img.shields.io/badge/Google Resume-blue?style=for-the-badge&logo=google&logoColor=black">
+  <img src="https://img.shields.io/badge/Velog-white?style=for-the-badge&logo=velog&logoColor=#20C997">
 </div>
 
 <br>
