@@ -24,4 +24,4 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devmagrfs&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devmagrfs&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
